@@ -20,7 +20,7 @@ The project was developed using **Keil µVision**, implementing features such as
 - **Hardware timers** are used for primary functions:  
   - Timers **1** and **3** → manage sound reproduction  
   - Timer **2** → handles animation frames
-- **Touch detection** is implemented in [`IRQ_RIT.c`](board/project/timer/IRQ_RIT.c):  
+- **Touch detection** is implemented in [`IRQ_RIT.c`](../board/project/timer/IRQ_RIT.c):  
   - Confirms the touch is within the pet’s area  
   - Ensures no other animations are currently running
 - **Animation sequence** is managed in [`IRQ_timer.c`](board/project/timer/IRQ_timer.c):  
