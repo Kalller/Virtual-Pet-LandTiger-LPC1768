@@ -1,7 +1,13 @@
 # Tamagotchi for LandTiger LPC1768
+<p align="center">
+  <img src="monster.gif" alt="Monster Demo" width="300"/>
+</p>
 
 A Tamagotchi-inspired virtual pet game for the **LandTiger LPC1768 ARM Cortex-M3** development board.  
 The project was developed using **Keil µVision**, implementing features such as interactive animations and audio feedback.
+<p align="center">
+  <img src="board emu.png" alt="Monster Demo" width="300"/>
+</p>
 
 ---
 ## Features
@@ -39,4 +45,3 @@ The project was developed using **Keil µVision**, implementing features such as
 - **Input:** Touchscreen & Potentiometer  
 - **IDE/Compiler:** Keil µVision  
 
----
